@@ -38,7 +38,7 @@ jupyter notebook PaperFinder.ipynb
 ### 4. Example Query
 After running the notebook, input a query such as:
 ```bash
-Enter query (or 'exit' to stop): We propose an improved dependency-directed backtracking method that reduces search progress loss by moving backtracking points deeper into space while preserving polynomial memory and completeness guarantees
+Enter query (or 'exit' to stop): We propose an improved dependency-directed backtracking method that reduces search progress loss by moving backtracking points deeper into space while preserving polynomial memory and completeness guarantees.
 ```
 It will return the top 5 most relevant articles along with match percentages.
 
